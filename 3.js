@@ -19,3 +19,7 @@ function getSpanishAlphabet(){
 }
 
 module.exports = getSpanishAlphabet
+
+/*
+You can run tests for this code to check your answers by running `npm run test-3`
+*/

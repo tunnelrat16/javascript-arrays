@@ -22,3 +22,7 @@ function getVowels(){
 }
 
 module.exports = getVowels
+
+/*
+You can run tests for this code to check your answers by running `npm run test-1`
+*/
